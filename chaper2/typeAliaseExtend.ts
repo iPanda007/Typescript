@@ -1,6 +1,7 @@
 type mokey ={
     name:string
 }
+//intersection
 type Bear =  mokey &{
     honey :boolean
 }
