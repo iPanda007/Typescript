@@ -5,3 +5,6 @@ data = 10;
 data = false;
 console.log('data', data);
 console.log("array", arr);
+arr.map((s) => {
+    console.log("s", s);
+});
