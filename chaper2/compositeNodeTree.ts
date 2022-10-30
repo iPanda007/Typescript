@@ -17,3 +17,4 @@ let tree : Tree = {
         ]},
     ]
 }
+console.log("tree",tree)

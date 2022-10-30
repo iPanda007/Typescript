@@ -9,3 +9,4 @@ let tree = {
             ] },
     ]
 };
+console.log("tree", tree);
