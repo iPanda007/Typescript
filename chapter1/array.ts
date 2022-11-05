@@ -12,3 +12,4 @@ console.log("array",arr);
 arr.map((s)=>{
    console.log("s",s)
 })
+
